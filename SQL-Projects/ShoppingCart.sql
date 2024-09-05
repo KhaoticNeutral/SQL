@@ -178,4 +178,3 @@ JOIN
     Products p ON od.ProdID = p.ProductId
 ORDER BY 
     oh.OrderID;
-
